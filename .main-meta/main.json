@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.3.0",
-        "name": "com.microchip.mplabx.project.pic18f57q43-mcc-dvrt-hello-world-led-toggle-count-variables",
+        "name": "com.microchip.mcu8.mplabx.project.pic18f57q43-mcc-dvrt-hello-world-led-toggle-count-variables",
         "version": "1.0.0",
         "displayName": "pic18f57q43-mcc-dvrt-hello-world-led-toggle-count-variables",
         "projectName": "pic18f57q43-mcc-dvrt-hello-world-led-toggle-count-variables",
@@ -43,10 +43,7 @@
         ],
         "keywords": [
             "DVRT",
-            "DV Run Time Library",
             "MCC Melody",
-            "LED Toggle",
-            "Count Variables",
             "Timer"
         ],
         "additionalData": {
