@@ -40,7 +40,7 @@ Count_msTicksSinceToggle is incremented up to toggle_ms, when LED_ON is toggled.
 ## Setup
 
 This example follows the configuration instructions from the following DV Run Time Library API Reference use case:  
-- [DVRT Hello World: LED Toggle and Count Variables (Timer)](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=SCF-LIBRARY-DVRT-USECASES.DVRT_USECASES_1&version=latest&redirect=true): <br>API Reference Use Case, with code snippets and configuration instructions. 
+- [DVRT Hello World: LED Toggle and Count Variables (Timer)](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=SCF-LIBRARY-DVRT-USECASES.DVRT_USECASES_1&version=latest&redirect=true): <br>API Reference use case, with code snippets and configuration instructions. 
 
 ## Operation
 
