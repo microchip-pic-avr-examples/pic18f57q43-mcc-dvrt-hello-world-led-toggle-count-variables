@@ -17,7 +17,7 @@ With the DVRT protocol, the set of streamed variables or memory locations, as we
 In this example, an LED is toggled after `LED_period_ms` (LED toggling period in ms). `LED_ON` holds the state of the LED pin, meaning that when it is set to `0`, an active-low LED is on, and vice versa. Every 1 ms, `DVRT_process( )` is called via a flag (msTick) set in the timer callback.
 Count_msTicksSinceToggle is incremented up to toggle_ms, when LED_ON is toggled.  
 
-[![Intro to DV Run Time Protocol](images\IntroToDVRunTime-Video.png)](https://www.youtube.com/watch?v=d99qiWsrbDc)  
+[![Intro to DV Run Time Protocol](images/IntroToDVRunTime-Video.png)](https://www.youtube.com/watch?v=d99qiWsrbDc)  
  
  [![Watch the video on YouTube](images/HelloWorldLedToggleCountVars-Video.png)](https://www.youtube.com/watch?v=80OA-Cw0F_k)
 
@@ -50,10 +50,10 @@ This example follows the configuration instructions from the following DV Run Ti
 
 What the example should look like when running: 
 
-![running the use case](images\DVRTHelloWorld-LEDToggleCountVariables-RunningTheUseCase_high.png)
+![running the use case](images/DVRTHelloWorld-LEDToggleCountVariables-RunningTheUseCase_high.png)
 
 
-![Running the LED Toggle and Count Variables example](images\Running_LED_Toggle_and_Count_Variables.gif)
+![Running the LED Toggle and Count Variables example](images/Running_LED_Toggle_and_Count_Variables.gif)
 
 ## Summary
 
