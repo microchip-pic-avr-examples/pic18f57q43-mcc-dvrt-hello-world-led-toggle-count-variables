@@ -17,7 +17,9 @@ With the DVRT protocol, the set of streamed variables or memory locations, as we
 In this example, an LED is toggled after `LED_period_ms` (LED toggling period in ms). `LED_ON` holds the state of the LED pin, meaning that when it is set to `0`, an active-low LED is on, and vice versa. Every 1 ms, `DVRT_process( )` is called via a flag (msTick) set in the timer callback.
 Count_msTicksSinceToggle is incremented up to toggle_ms, when LED_ON is toggled.  
 
- [![Intro to DV Run Time Protocol](images\IntroToDVRunTime-Video.png)](https://www.youtube.com/watch?v=d99qiWsrbDc) [![Watch the video on YouTube](images/HelloWorldLedToggleCountVars-Video.png)](https://www.youtube.com/watch?v=80OA-Cw0F_k)
+[![Intro to DV Run Time Protocol](images\IntroToDVRunTime-Video.png)](https://www.youtube.com/watch?v=d99qiWsrbDc)  
+ 
+ [![Watch the video on YouTube](images/HelloWorldLedToggleCountVars-Video.png)](https://www.youtube.com/watch?v=80OA-Cw0F_k)
 
 ## Related Documentation
 - [MPLAB® Code Configurator (MCC) Melody API Reference for DV Run Time Library](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=DV-RUN-TIME-LIBRARY&version=latest&redirect=true)
