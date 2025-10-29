@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f57q43-mcc-dvrt-hello-world-led-toggle-count-variables",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "pic18f57q43-mcc-dvrt-hello-world-led-toggle-count-variables",
         "projectName": "pic18f57q43-mcc-dvrt-hello-world-led-toggle-count-variables",
         "shortDescription": "This is the API reference use case from the MCC Melody DV Run Time Library. ",
